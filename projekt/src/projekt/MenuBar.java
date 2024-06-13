@@ -31,7 +31,6 @@ public class MenuBar extends JMenuBar {
 	}
 	
 	public MenuBar() {
-
 		menu.add(planetSubMenu);
 
 //		cowSubMenu.addActionListener(new ActionListener() {
